@@ -1,0 +1,5 @@
+1) কমান্ড চালানোর আগে নিচের কমান্ডগুলো দিয়ে setup.exe ফাইলটি ঠিকভাবে কাজ করছে কিনা চেক করো:
+cd "C:\Users\user\Documents\Office 2019" setup.exe /help
+
+যদি এটি কাজ করে, তাহলে নিচের কমান্ড চালাও—
+setup.exe /configure configuration.xml 
