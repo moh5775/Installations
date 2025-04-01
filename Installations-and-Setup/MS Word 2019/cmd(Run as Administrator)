@@ -3,3 +3,9 @@ cd "C:\Users\user\Documents\Office 2019" setup.exe /help
 
 যদি এটি কাজ করে, তাহলে নিচের কমান্ড চালাও—
 setup.exe /configure configuration.xml 
+
+
+
+Process 2:
+
+cmd > run as administrator > cd file_location > setup /configure configuration.xml 
